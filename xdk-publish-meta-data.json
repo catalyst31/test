@@ -1,0 +1,41 @@
+{
+  "categorization": {
+    "type": "APPLICATION",
+    "category": "Education"
+  },
+  "description": {
+    "texts": {
+      "title": "Panduan Gizi Bayi",
+      "features": [
+        "banyak"
+      ],
+      "short-description": "Panduan Gizi Bayi",
+      "full-description": "asdsadas",
+      "keywords": "bayi",
+      "recent-changes": "",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [],
+      "app-icon-small": "",
+      "app-icon": "",
+      "small-promo": "",
+      "large-promo": ""
+    },
+    "videos": {
+      "video-url": ""
+    }
+  },
+  "packages": {
+    "apk-file": "/C/Users/Catalyst/Desktop/APK Build/gizibayi.cordova.android.201606044138.apk",
+    "zip-xdk-compliant": false,
+    "zip-file": "",
+    "secondary-apk-file": ""
+  },
+  "support": {
+    "email": "",
+    "website": ""
+  },
+  "testing-instructions": ""
+}
